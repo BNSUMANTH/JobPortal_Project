@@ -5,7 +5,7 @@ JobPortal is a comprehensive web application designed to connect blue-collar wor
 
 ## 🚀 Deployment Link
 
-🔗 **Live Demo:** [memeHUB Deployment](<https://jobprovider.onrender.com/>)
+🔗 **Live Demo:** [JobPortal](<https://jobprovider.onrender.com/>)
 
 
 ## Features
