@@ -3,6 +3,11 @@
 
 JobPortal is a comprehensive web application designed to connect blue-collar workers with job opportunities tailored to their skills and expertise. The platform bridges the gap between employers and job seekers, providing a seamless, reliable, and accessible experience for both parties.
 
+## 🚀 Deployment Link
+
+🔗 **Live Demo:** [memeHUB Deployment](<https://jobprovider.onrender.com/>)
+
+
 ## Features
 
 - User authentication for employees and employers
